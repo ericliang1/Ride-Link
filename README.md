@@ -7,5 +7,5 @@ This repository contains the neural collaborative filtering (NCF) model for the 
 - **ridelink_data.csv**: Training data used to train the NCF model. Features include: distances from school, flexibility, commute and leaving times, distance between users, and similarity scores
 
 ## Features
-- predicts similarity score between two users with 96% accuracy
+- compares two users and predicts similarity score between 0 - 1 with 96% accuracy
 - recommends potential carpool partners using predicted similarity scores
